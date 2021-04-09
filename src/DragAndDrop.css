@@ -1,0 +1,8 @@
+.drag-drop-zone {
+  padding: 2rem;
+  height: 200px;
+  text-align: center;
+  background: #07f;
+  border-radius: 0.5rem;
+  box-shadow: 5px 5px 10px #c0c0c0;
+}
